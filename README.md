@@ -21,7 +21,7 @@ README.md
 
 1. Create and activate a virtual environment and follow requirements.txt to install all the required packages for app.
 
-2. Clone the project and run the following command in the project's directory to run web app:
+2. Clone the project, create an empty folder named `uploads` in the project's directory, and run the following command to run web app:
     `python app.py`
 
 3. The app should be running on `http://127.0.0.1:5000/`
