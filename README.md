@@ -1,16 +1,16 @@
 # Dog Classifier
 
 ## Contents
-[0. File description](https://github.com/seansunn/DogClassifier/edit/main/README.md#file-description)\
-[1. Web app instructions](https://github.com/seansunn/DogClassifier/edit/main/README.md#web-app-instructions)\
-[1. Project Introduction](https://github.com/seansunn/DogClassifier/edit/main/README.md#project-introduction)\
-[2. Strategy](https://github.com/seansunn/DogClassifier/edit/main/README.md#metrics)\
-[3. EDA](https://github.com/seansunn/DogClassifier/edit/main/README.md#eda)\
-[4. Modelling](https://github.com/seansunn/DogClassifier/edit/main/README.md#odelling)\
-[5. Hyperparameter tuning](https://github.com/seansunn/DogClassifier/edit/main/README.md#hyperparameter-tuning)\
-[6. Results and conclusion](https://github.com/seansunn/DogClassifier/edit/main/README.md#results-and-conclusion)\
-[7. Improvements](https://github.com/seansunn/DogClassifier/edit/main/README.md#improvements)\
-[8. Licensing and acknowledgements](https://github.com/seansunn/DogClassifier/edit/main/README.md#licensing-and-acknowledgements)
+[0. File description](https://github.com/seansunn/DogClassifier/blob/main/README.md#file-description)\
+[1. Web app instructions](https://github.com/seansunn/DogClassifier/blob/main/README.md#web-app-instructions)\
+[2. Project Introduction](https://github.com/seansunn/DogClassifier/blob/main/README.md#project-introduction)\
+[3. Strategy](https://github.com/seansunn/DogClassifier/blob/main/README.md#metrics)\
+[4. EDA](https://github.com/seansunn/DogClassifier/blob/main/README.md#eda)\
+[5. Modelling](https://github.com/seansunn/DogClassifier/blob/main/README.md#odelling)\
+[6. Hyperparameter tuning](https://github.com/seansunn/DogClassifier/blob/main/README.md#hyperparameter-tuning)\
+[7. Results and conclusion](https://github.com/seansunn/DogClassifier/blob/main/README.md#results-and-conclusion)\
+[8. Improvements](https://github.com/seansunn/DogClassifier/blob/main/README.md#improvements)\
+[9. Licensing and acknowledgements](https://github.com/seansunn/DogClassifier/blob/main/README.md#licensing-and-acknowledgements)
 
 
 ## File description
