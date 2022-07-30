@@ -4,7 +4,7 @@
 [0. File description](https://github.com/seansunn/DogClassifier#file-description)\
 [1. Web app instructions](https://github.com/seansunn/DogClassifier#web-app-instructions)\
 [2. Project Introduction](https://github.com/seansunn/DogClassifier#project-introduction)\
-[3. Strategy](https://github.com/seansunn/DogClassifier#metrics)\
+[3. Strategy](https://github.com/seansunn/DogClassifier#strategy)\
 [4. EDA](https://github.com/seansunn/DogClassifier#eda)\
 [5. Modelling](https://github.com/seansunn/DogClassifier#modelling)\
 [6. Hyperparameter tuning](https://github.com/seansunn/DogClassifier#hyperparameter-tuning)\
@@ -81,5 +81,5 @@ In order to reduce the variance:
 3. may use a different architecture for the task, such as the inception network.
 
 
-## Licensing, Acknowledgements
+## Licensing and acknowledgements
 Thanks to Udacity for providing the dataset. Feel free to use any of the code.
