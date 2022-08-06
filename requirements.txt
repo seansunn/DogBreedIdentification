@@ -4,6 +4,5 @@ Flask-WTF
 gunicorn
 keras
 opencv
-python
 tensorflow-cpu
 numpy
