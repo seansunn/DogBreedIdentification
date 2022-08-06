@@ -3,6 +3,6 @@ Flask-Reuploaded
 Flask-WTF
 gunicorn
 keras
-opencv
+opencv-python
 tensorflow-cpu
 numpy
