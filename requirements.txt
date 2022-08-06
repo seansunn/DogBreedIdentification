@@ -1,9 +1,9 @@
-Flask==2.1.3
-Flask-Reuploaded==1.2.0
-Flask-WTF==1.0.1
-gunicorn==20.1.0
-keras==2.9.0
-opencv-python==4.6.0.66
+Flask
+Flask-Reuploaded
+Flask-WTF
+gunicorn
+keras
+opencv-python
 python
-tensorflow-cpu==2.9.1
+tensorflow-cpu
 numpy
